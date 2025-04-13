@@ -33,6 +33,8 @@ metaflow-dev shell
 eval "$(mamba shell hook --shell bash)"
 mamba activate metaflow-dev
 source metaflow_env/bin/activate
+
+pip install -r requirement.txt
 ```
 
 Now you can run your app and watch the pipeline every time you type 
