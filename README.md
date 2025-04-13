@@ -4,7 +4,7 @@ This project consist of source code for trainning model as well as tracking via 
 
 (The project should run on ubuntu os if you are using window)
 
-First you have to create an enviroment in your workidr and active metaflow-dev by 
+First you have to create an enviroment in your workdir and active metaflow-dev by 
 
 ```
 python3 -m venv metaflow_env
