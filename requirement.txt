@@ -1,4 +1,4 @@
 mlflow == 2.21.3
 metaflow == 2.15.7 
-pandas = 
+pandas 
 scikit-learn
