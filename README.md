@@ -23,6 +23,15 @@ Then click on http://localhost:10350/ and wait for all service full activate
 
 
 After that open another ubuntu terminal and go to your workdir where you activate metaflow-dev and type the following code one by one
+
+IF YOU DO NOT HAVE CONDA AND MAMBA ELSE SKIP THIS
+```
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+source ~/miniconda3/etc/profile.d/conda.sh
+conda install mamba -n base -c conda-forge
+```
+
 ```
 eval "$(mamba shell hook --shell bash)"
 mamba activate metaflow-dev
