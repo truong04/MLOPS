@@ -38,7 +38,7 @@ source metaflow_env/bin/activate
 Now you can run your app and watch the pipeline every time you type 
 ```
 python ur_ap_name.py run # click on the url to go to metaflow ui
-mlflow ui #too se the model performance and version in mlflow ui
+mlflow ui #to see the model performance and version in mlflow ui
 ```
 
 Your teminal screen should look like this
