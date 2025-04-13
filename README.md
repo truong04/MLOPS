@@ -1,6 +1,7 @@
 # MLOPS
 
 The project should run on ubuntu os if you are using window
+
 First you have to create an enviroment in your workidr and active metaflow-dev by 
 
 ```
