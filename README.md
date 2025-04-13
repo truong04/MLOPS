@@ -13,7 +13,7 @@ pip install metaflow
 metaflow-dev up
 ```
 
-After running meta flow-dev up press then enter when it ask which service you are going to use 
+After running meta flow-dev up then press enter when it ask which service you are going to use 
 
 your ubuntu should look like this
 
