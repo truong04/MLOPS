@@ -13,7 +13,9 @@ metaflow-dev up
 After running meta flow-dev up press enter when it ask which service you are going to use 
 
 your ubuntu should look like this
-image
+
+![alt text](https://github.com/truong04/MLOPS/blob/main/image/metaflow-dev-screen.png?raw=true)
+
 Then click on http://localhost:10350/ and wait for all service full activate
 
 
